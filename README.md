@@ -1,4 +1,4 @@
-
+img/chitietsanpham/icon-baohanh.png
 
 Đồ án môn web 1, web tĩnh, đề tài trang web bán điện thoại.
 
